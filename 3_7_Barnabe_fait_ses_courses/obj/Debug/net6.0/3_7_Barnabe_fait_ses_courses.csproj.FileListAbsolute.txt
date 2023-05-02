@@ -1,0 +1,15 @@
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\obj\Debug\net6.0\3_7_Barnabe_fait_ses_courses.csproj.AssemblyReference.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\obj\Debug\net6.0\3_7_Barnabe_fait_ses_courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\obj\Debug\net6.0\3_7_Barnabe_fait_ses_courses.AssemblyInfoInputs.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\obj\Debug\net6.0\3_7_Barnabe_fait_ses_courses.AssemblyInfo.cs
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\obj\Debug\net6.0\3_7_Barnabe_fait_ses_courses.csproj.CoreCompileInputs.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\bin\Debug\net6.0\3_7_Barnabe_fait_ses_courses.exe
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\bin\Debug\net6.0\3_7_Barnabe_fait_ses_courses.deps.json
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\bin\Debug\net6.0\3_7_Barnabe_fait_ses_courses.runtimeconfig.json
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\bin\Debug\net6.0\3_7_Barnabe_fait_ses_courses.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\bin\Debug\net6.0\3_7_Barnabe_fait_ses_courses.pdb
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\obj\Debug\net6.0\3_7_Barnabe_fait_ses_courses.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\obj\Debug\net6.0\refint\3_7_Barnabe_fait_ses_courses.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\obj\Debug\net6.0\3_7_Barnabe_fait_ses_courses.pdb
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\obj\Debug\net6.0\3_7_Barnabe_fait_ses_courses.genruntimeconfig.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_7_Barnabe_fait_ses_courses\obj\Debug\net6.0\ref\3_7_Barnabe_fait_ses_courses.dll

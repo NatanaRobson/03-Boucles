@@ -1,0 +1,30 @@
+﻿EXERCICE 3.7 : BARNABÉ FAIT SES COURSES
+Barnabé fait ses courses dans plusieurs magasins.
+
+Dans chacun, il dépense 1 € de plus que la moitié de ce qu’il possédait en entrant.
+
+Dans le dernier magasin, il dépense le solde.
+
+Barnabé dépense au moins 1 € dans chaque magasin.
+
+Représenter l’algorithme permettant de trouver le nombre de magasins dans lesquels il a acheté.
+
+//VARIABLES
+
+	N est un entier
+	i est un entier = 0
+
+//TRAITEMENT
+
+	ECRIRE "Entrer la somme de départ N : "
+	LIRE N
+
+	TANT QUE N > 2
+
+	FAIRE
+		incrémenter i
+		N <-- (N - N/2 + 1)
+
+	incrémenter i 
+
+	ECRIRE "Narnabé à dépensé son budget dans ", i , " magasins!"

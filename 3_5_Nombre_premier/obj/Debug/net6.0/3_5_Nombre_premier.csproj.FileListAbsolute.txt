@@ -1,0 +1,15 @@
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\bin\Debug\net6.0\3_5_Nombre_premier.exe
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\bin\Debug\net6.0\3_5_Nombre_premier.deps.json
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\bin\Debug\net6.0\3_5_Nombre_premier.runtimeconfig.json
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\bin\Debug\net6.0\3_5_Nombre_premier.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\bin\Debug\net6.0\3_5_Nombre_premier.pdb
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\obj\Debug\net6.0\3_5_Nombre_premier.csproj.AssemblyReference.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\obj\Debug\net6.0\3_5_Nombre_premier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\obj\Debug\net6.0\3_5_Nombre_premier.AssemblyInfoInputs.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\obj\Debug\net6.0\3_5_Nombre_premier.AssemblyInfo.cs
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\obj\Debug\net6.0\3_5_Nombre_premier.csproj.CoreCompileInputs.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\obj\Debug\net6.0\3_5_Nombre_premier.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\obj\Debug\net6.0\refint\3_5_Nombre_premier.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\obj\Debug\net6.0\3_5_Nombre_premier.pdb
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\obj\Debug\net6.0\3_5_Nombre_premier.genruntimeconfig.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_5_Nombre_premier\obj\Debug\net6.0\ref\3_5_Nombre_premier.dll

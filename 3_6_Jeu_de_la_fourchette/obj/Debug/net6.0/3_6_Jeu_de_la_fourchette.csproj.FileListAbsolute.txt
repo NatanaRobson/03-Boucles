@@ -1,0 +1,15 @@
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\bin\Debug\net6.0\3_6_Jeu_de_la_fourchette.exe
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\bin\Debug\net6.0\3_6_Jeu_de_la_fourchette.deps.json
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\bin\Debug\net6.0\3_6_Jeu_de_la_fourchette.runtimeconfig.json
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\bin\Debug\net6.0\3_6_Jeu_de_la_fourchette.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\bin\Debug\net6.0\3_6_Jeu_de_la_fourchette.pdb
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\obj\Debug\net6.0\3_6_Jeu_de_la_fourchette.csproj.AssemblyReference.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\obj\Debug\net6.0\3_6_Jeu_de_la_fourchette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\obj\Debug\net6.0\3_6_Jeu_de_la_fourchette.AssemblyInfoInputs.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\obj\Debug\net6.0\3_6_Jeu_de_la_fourchette.AssemblyInfo.cs
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\obj\Debug\net6.0\3_6_Jeu_de_la_fourchette.csproj.CoreCompileInputs.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\obj\Debug\net6.0\3_6_Jeu_de_la_fourchette.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\obj\Debug\net6.0\refint\3_6_Jeu_de_la_fourchette.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\obj\Debug\net6.0\3_6_Jeu_de_la_fourchette.pdb
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\obj\Debug\net6.0\3_6_Jeu_de_la_fourchette.genruntimeconfig.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\3_6_Jeu_de_la_fourchette\obj\Debug\net6.0\ref\3_6_Jeu_de_la_fourchette.dll

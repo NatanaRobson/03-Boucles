@@ -1,0 +1,25 @@
+﻿EXERCICE 3.5 : NOMBRE PREMIER
+Lire un nombre N et déterminer s’il est un nombre premier.
+
+Un nombre premier n’est divisible que par 1 et par lui-même.
+
+//VARIABLES
+
+	N est un entier
+	test est un entier
+	i est un entier = 0
+
+//TRAITEMENT
+
+	LIRE N
+
+	POUR test allant de 1 à N
+
+		SI N divisible par test
+		ALORS i++
+
+	SI test > 2 ET N != 1
+	ALORS
+		ECRIRE N, "n'est pas un nbr 1er !"
+	SINON 
+		ECRIRE N, "est un nbr 1er !"

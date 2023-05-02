@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exo_3_4_Recherche_diviseur/1.0.0": {
+        "runtime": {
+          "exo_3_4_Recherche_diviseur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exo_3_4_Recherche_diviseur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
