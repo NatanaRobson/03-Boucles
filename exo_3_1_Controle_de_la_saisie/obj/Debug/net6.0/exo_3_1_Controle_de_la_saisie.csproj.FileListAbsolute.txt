@@ -1,0 +1,15 @@
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\obj\Debug\net6.0\exo_3_1_Controle_de_la_saisie.csproj.AssemblyReference.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\obj\Debug\net6.0\exo_3_1_Controle_de_la_saisie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\obj\Debug\net6.0\exo_3_1_Controle_de_la_saisie.AssemblyInfoInputs.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\obj\Debug\net6.0\exo_3_1_Controle_de_la_saisie.AssemblyInfo.cs
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\obj\Debug\net6.0\exo_3_1_Controle_de_la_saisie.csproj.CoreCompileInputs.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\bin\Debug\net6.0\exo_3_1_Controle_de_la_saisie.exe
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\bin\Debug\net6.0\exo_3_1_Controle_de_la_saisie.deps.json
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\bin\Debug\net6.0\exo_3_1_Controle_de_la_saisie.runtimeconfig.json
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\bin\Debug\net6.0\exo_3_1_Controle_de_la_saisie.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\bin\Debug\net6.0\exo_3_1_Controle_de_la_saisie.pdb
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\obj\Debug\net6.0\exo_3_1_Controle_de_la_saisie.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\obj\Debug\net6.0\refint\exo_3_1_Controle_de_la_saisie.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\obj\Debug\net6.0\exo_3_1_Controle_de_la_saisie.pdb
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\obj\Debug\net6.0\exo_3_1_Controle_de_la_saisie.genruntimeconfig.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_1_Controle_de_la_saisie\obj\Debug\net6.0\ref\exo_3_1_Controle_de_la_saisie.dll

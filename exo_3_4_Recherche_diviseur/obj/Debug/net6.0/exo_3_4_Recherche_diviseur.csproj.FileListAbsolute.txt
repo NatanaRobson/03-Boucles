@@ -1,0 +1,15 @@
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\bin\Debug\net6.0\exo_3_4_Recherche_diviseur.exe
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\bin\Debug\net6.0\exo_3_4_Recherche_diviseur.deps.json
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\bin\Debug\net6.0\exo_3_4_Recherche_diviseur.runtimeconfig.json
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\bin\Debug\net6.0\exo_3_4_Recherche_diviseur.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\bin\Debug\net6.0\exo_3_4_Recherche_diviseur.pdb
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\obj\Debug\net6.0\exo_3_4_Recherche_diviseur.csproj.AssemblyReference.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\obj\Debug\net6.0\exo_3_4_Recherche_diviseur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\obj\Debug\net6.0\exo_3_4_Recherche_diviseur.AssemblyInfoInputs.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\obj\Debug\net6.0\exo_3_4_Recherche_diviseur.AssemblyInfo.cs
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\obj\Debug\net6.0\exo_3_4_Recherche_diviseur.csproj.CoreCompileInputs.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\obj\Debug\net6.0\exo_3_4_Recherche_diviseur.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\obj\Debug\net6.0\refint\exo_3_4_Recherche_diviseur.dll
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\obj\Debug\net6.0\exo_3_4_Recherche_diviseur.pdb
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\obj\Debug\net6.0\exo_3_4_Recherche_diviseur.genruntimeconfig.cache
+C:\Users\nrobson\git\Visual Studio\03-Boucles\exo_3_4_Recherche_diviseur\obj\Debug\net6.0\ref\exo_3_4_Recherche_diviseur.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exo_3_3_Intervalle_entre_2_nombres/1.0.0": {
+        "runtime": {
+          "exo_3_3_Intervalle_entre_2_nombres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exo_3_3_Intervalle_entre_2_nombres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿EXERCICE 3.3 : INTERVALLE ENTRE 2 NOMBRES.
+Lire 2 nombres entier A et B puis afficher tous les nombres entier dans l’intervalle.
+
+Exemples : 
+A = 3
+B = 7
+Résultat = 4 5 6
+
+A = 7
+B = 3
+Résultat = 6 5 4
+
+===========================================
+
+//VARIABLES
+
+	A est un entier
+	B est un entier
+	i est un entier 
+	
+//TRAITEMENT
+
+	LIRE A
+	LIRE B
+
+	POUR i allant de A+1 à B par pas de 1
+	ECRIRE i
